@@ -7,13 +7,15 @@ class BoardMember {
     this.training = training
   }
 
-
-  function veto() {
+ // I do not have to define function with class methods
+  veto() {
     return "No, I must disagree"
   }
   
-  function approve() {
+   approve() {
     return "You can do that!"
   }
+  
+  
   
 }
