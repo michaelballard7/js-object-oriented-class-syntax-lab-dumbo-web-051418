@@ -7,7 +7,7 @@ class BoardMember {
     this.training = training
   }
 
- // I do not have to define function with class methods
+ // I do not have to define function with instance methods
   veto() {
     return "No, I must disagree"
   }
