@@ -21,11 +21,11 @@ class BoardMember {
   }
   
   releasePressStatement(){
-    return "You will see greate things from Scuber"
+    return "You will see greate things from Scuber."
   }
   
   sayHi(){
-    return `Hi, my name is ${this.name}. I am from ${this.homeState}, and I was trained in ${this.training}`
+    return `Hi, my name is ${this.name}. I am from ${this.homeState}, and I was trained in ${this.training}.`
   }
   
   
