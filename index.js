@@ -25,7 +25,7 @@ class BoardMember {
   }
   
   sayHi(){
-    return `Hi, my name is ${self.name}`
+    return `Hi, my name is ${this.name}. I`
   }
   
   
