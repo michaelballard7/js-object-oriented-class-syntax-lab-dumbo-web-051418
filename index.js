@@ -1,5 +1,5 @@
 
 class BoardMember {
   
-  constructor()
+  constructor(name, homeState, training)
 }
