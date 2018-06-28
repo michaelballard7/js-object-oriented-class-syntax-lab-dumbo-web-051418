@@ -30,6 +30,6 @@ class BoardMember {
   
 }
 
-class CEO {
+class Ceo {
   
 }
