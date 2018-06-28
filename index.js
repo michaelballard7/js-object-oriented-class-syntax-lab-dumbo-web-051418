@@ -24,5 +24,9 @@ class BoardMember {
     return "You will see greate things from Scuber"
   }
   
+  sayHi(){
+    return `Hi, my name is ${}`
+  }
+  
   
 }
