@@ -7,5 +7,13 @@ class BoardMember {
     this.training = training
   }
 
+
+  function veto() {
+    return "No, I must disagree"
+  }
+  
+  function approve() {
+    return "You can do that!"
+  }
   
 }
